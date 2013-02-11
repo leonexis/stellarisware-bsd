@@ -1,0 +1,6 @@
+The sources here are from TI Stellaris EK-LM4F120XL Firmware Development
+Package. Only Open Source libraries from TI are included and, in the cases 
+where I was unsure about the terms of the license or if the terms were too
+restrictive, I just left them out. 
+
+- S "Leo" Tindle <leonexis@gmail.com>
